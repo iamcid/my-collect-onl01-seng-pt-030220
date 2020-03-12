@@ -8,4 +8,4 @@ def my_collect(array)
   collection
 end
 
-my_collect(name) {|name|
+my_collect(name) {|i| i.first(" ")
