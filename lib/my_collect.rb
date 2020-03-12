@@ -7,5 +7,3 @@ def my_collect(array)
   end
   collection
 end
-
-my_collect(name) {|i| i.split(" ").first}
